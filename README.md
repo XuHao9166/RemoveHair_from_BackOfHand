@@ -10,4 +10,8 @@ Main project content: The irregular operator detection detection and filtering b
 
 Dependent on the environment: vs2012 + opencv 
 
+左边为原图，右边为结果图
 
+The left side is the original picture, and the right side is the result picture.
+
+![效果图](https://github.com/XuHao9166/RemoveHair_from_BackOfHand/blob/master/1.bmp)
